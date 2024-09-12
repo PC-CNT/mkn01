@@ -98,7 +98,7 @@ http://corosoku.blog.jp/*
 *://greenluffa.com/*
 *://taloshop.xyz/*
 *://driversol.com/*
-*://www.sejuku.net/*
+*://*.sejuku.net/*
 *://tech-camp.in/*
 *://www.opendll.com/*
 *://*.error-dll.info/*
