@@ -465,3 +465,4 @@ http://www.ascentive.com/*
 *://*.qiita.com/*
 *://*.crackedos.com/*
 *://answers.microsoft.com/*
+*://smhn.info/*
