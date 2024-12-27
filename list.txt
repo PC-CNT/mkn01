@@ -466,3 +466,4 @@ http://www.ascentive.com/*
 *://*.crackedos.com/*
 *://answers.microsoft.com/*
 *://smhn.info/*
+*://techis.jp/*
