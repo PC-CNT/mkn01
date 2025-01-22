@@ -467,3 +467,4 @@ http://www.ascentive.com/*
 *://answers.microsoft.com/*
 *://smhn.info/*
 *://techis.jp/*
+*://raretech.site/*
